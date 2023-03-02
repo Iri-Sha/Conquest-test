@@ -1,0 +1,9 @@
+.screen1__text {
+  max-width: 258px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(27, 26, 23, 0.82);
+  margin: 0 0 64px 185px;
+}

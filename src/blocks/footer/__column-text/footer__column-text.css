@@ -1,0 +1,14 @@
+.footer__column-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 32px;
+  margin-bottom: 15px;
+}
+
+.footer__column-text:last-child {
+  margin-bottom: 0;
+  margin-top: 0;
+}

@@ -1,0 +1,11 @@
+.page {
+  max-width: 1366px;
+  background-color: #FDFDFB;
+  margin: 0 auto;
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #1B1A17;
+  display: block;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

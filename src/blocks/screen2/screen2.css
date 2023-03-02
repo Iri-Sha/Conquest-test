@@ -1,0 +1,9 @@
+.screen2 {
+  min-height: 720px;
+  width: 100%;
+  background-color: #FFFFFF;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}

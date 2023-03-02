@@ -1,0 +1,8 @@
+.screen1__line {
+  width: 48px;
+  height: 0px;
+  border: 1px solid #8B8371;
+  background-color: #8B8371;
+  margin-right: 15px;
+  align-self: center;
+}

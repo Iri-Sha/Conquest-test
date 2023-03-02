@@ -1,0 +1,7 @@
+.card__image {
+  width: 313px;
+  height: 313px;
+  margin: 2px auto 19px;
+  display: block;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+.screen1__diameter {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #1B1A17;
+  margin-block: 0;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 114px;
+  bottom: 116px;
+}

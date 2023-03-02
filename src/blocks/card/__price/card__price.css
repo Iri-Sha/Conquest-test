@@ -1,0 +1,9 @@
+.card__price {
+  font-family: 'Prata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: rgba(27, 26, 23, 0.82);
+  margin: 0 40px 0;
+}

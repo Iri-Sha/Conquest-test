@@ -1,0 +1,12 @@
+.screen1 {
+  min-height: 768px;
+  width: 100%;
+  background-color: #FDFDFB;
+  margin: 0;
+  position: relative;
+  background-image: url(../../images/elipse_main.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  overflow: hidden;
+}

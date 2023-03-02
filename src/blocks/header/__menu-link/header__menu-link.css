@@ -1,0 +1,17 @@
+.header__menu-link {
+  color: #555248;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  margin-right: 65px;
+}
+
+.header__menu-link:last-child {
+  margin-right: 0;
+}
+
+.header__menu-link:hover {
+  opacity: 0.8;
+  transition: 0.4s;
+}

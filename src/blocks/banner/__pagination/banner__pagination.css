@@ -1,0 +1,7 @@
+.banner__pagination {
+  position: absolute;
+  left: 375px;
+  bottom: -35px;
+  display: flex;
+  flex-direction: row;
+}

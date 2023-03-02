@@ -1,0 +1,7 @@
+.screen1__price {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 583px;
+  top: 138px;
+}

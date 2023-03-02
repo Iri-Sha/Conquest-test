@@ -1,0 +1,7 @@
+.screen3__link {
+  margin-right: 18px;
+}
+
+.screen3__link:last-child {
+  margin-right: 0;
+}

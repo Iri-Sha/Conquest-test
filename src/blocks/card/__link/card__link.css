@@ -1,0 +1,13 @@
+.card__link {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  margin-left: 40px;
+  margin-left: 40px;
+  text-decoration: none;
+}
+
+.card__link:hover {
+  opacity: 0.8;
+  transition: 0.4s;
+}

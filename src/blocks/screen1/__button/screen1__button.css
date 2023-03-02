@@ -1,0 +1,18 @@
+.screen1__button {
+  width: 205px;
+  height: 64px;
+  background: #444240;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-left: 185px;
+}
+
+.screen1__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+  transition: 0.4s;
+}

@@ -1,0 +1,17 @@
+.banner__button {
+  width: 205px;
+  height: 64px;
+  background: #D4B098;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  border: none;
+}
+
+.banner__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+  transition: 0.4s;
+}

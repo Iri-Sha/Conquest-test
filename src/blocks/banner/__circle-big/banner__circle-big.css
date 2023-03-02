@@ -1,0 +1,11 @@
+.banner__circle-big {
+  background: none;
+  border: 1px solid #D4B098;
+  border-radius: 50%;
+  height: 744.38px;
+  width: 744.38px;
+  transform: rotate(-28.35deg);
+  position: absolute;
+  top: 0;
+  right: -530px;
+}

@@ -1,0 +1,6 @@
+.banner__conteiner {
+  position: absolute;
+  align-self: center;
+  left: 177px;
+  display: flex;
+}

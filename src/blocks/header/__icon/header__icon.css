@@ -1,0 +1,13 @@
+.header__icon {
+  margin-right: 23px;
+  position: relative;
+}
+
+.header__icon:last-child {
+  margin-right: 0;
+}
+
+.header__icon:hover {
+  opacity: 0.8;
+  transition: 0.4s;
+}

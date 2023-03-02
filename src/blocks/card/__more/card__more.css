@@ -1,0 +1,12 @@
+.card__more {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #444240;
+  padding-bottom: 11.5px;
+  border-bottom: 1px solid #C4C0B6;
+  text-decoration: none;
+  position: absolute;
+  top: 115px;
+  right: 98px;
+}

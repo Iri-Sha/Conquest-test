@@ -1,0 +1,10 @@
+.banner__title {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 43px;
+  color: #1B1A17;
+  margin: 0;
+  margin-block: 0;
+}

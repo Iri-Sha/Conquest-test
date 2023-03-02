@@ -1,0 +1,13 @@
+.banner__circle-small {
+  background: none;
+  border: 1px solid #D4B098;
+  transform: rotate(-28.35deg);
+  border-radius: 50%;
+  height: 365.16px;
+  width: 365.16px;
+  position: absolute;
+  top: -170px;
+  right: -172px;
+  display: flex;
+  overflow: hidden;
+}
